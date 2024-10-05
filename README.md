@@ -1,4 +1,4 @@
 
-# Projet académique de gestion de réservations/vols
+# Diagramme UML
 
 ![Diagramme UML](UML.png)
